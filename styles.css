@@ -1,0 +1,7 @@
+nav {
+  padding: 5px;
+  background-color: red;
+}
+nav > a {
+  background-color: white;
+}
