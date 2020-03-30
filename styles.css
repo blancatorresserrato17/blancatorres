@@ -1,7 +1,7 @@
 nav {
   padding: 5px;
-  background-color: red;
+  background-color: blue;
 }
 nav > a {
-  background-color: white;
+  background-color:orange;
 }
