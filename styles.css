@@ -5,3 +5,6 @@ nav {
 nav > a {
   background-color:orange;
 }
+.fondo {
+  background-size: cover;
+}

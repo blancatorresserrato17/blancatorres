@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+
+   <head>
+      <title> Mis pajaros favoritos  </title>
+   </head>
+
+   <body>
+    <h1 style="color:blue"> Charlie y Lola </h1>
+    <p style="color: orange"> Charlie y Lola son mis favoritos </p>
+
+    <ul style="color: green">
+      <li> canario </li>
+      <li> golondrina </li>
+      <li> quetzal </li>
+      <li> gorrion </li>
+      <li> colibri </li>
+      <li> perico </li>
+    </ul>
+
+    <a href="https://www.google.com/" style="color: pink"> link a google </a>
+
+   </body>
+
+</html>
